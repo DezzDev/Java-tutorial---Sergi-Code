@@ -32,7 +32,7 @@ Es un espacio en memoria que tiene un nombre asociado y puede contener un valor 
 
 - Variables primitivas: Almacenan valores básicos
 
- ````java
+ ```java
   // Tipos de números enteros: byte(-128 al 127) , short(-32768 al 32767), int, long
   byte numeroByte = 5
   int numeroInt = 5;
