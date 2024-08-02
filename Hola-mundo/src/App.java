@@ -3,6 +3,7 @@ public class App {
         System.out.println("Hello, Daniel!");
         
         int numero = 5;
+        System.out.println(numero);
 
         
     }
