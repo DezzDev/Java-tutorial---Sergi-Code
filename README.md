@@ -33,13 +33,31 @@ Es un espacio en memoria que tiene un nombre asociado y puede contener un valor 
 - Variables primitivas: Almacenan valores básicos
 
  ```java
+
+  // Datos primitivos
+
   // Tipos de números enteros: byte(-128 al 127) , short(-32768 al 32767), int, long
-  byte numeroByte = 5
+  byte numeroByte = 5;
   int numeroInt = 5;
 
-  // Tipos de decimales
-  double decimalDouble = 5.1234
+  // Tipos de decimales: float( 6 a 7 decimales), double(15 a 16 decimales)
+  double decimalDouble = 5.1234;
+  float decimalFloat = 5.1234f;
+
+  // Tipo de dato de caracter
+  char caracter = 's'; // va con comillas simples
+
+  // Tipo de dato booleano
+  boolean b = true;
 
  ```
 
 - Variables de referencia: Almacena direcciones de memoria que apuntan a objetos
+
+```java
+
+// datos de referencia
+
+String cadena = "soy un texto" // va con S mayuscula y comillas dobles
+
+```
