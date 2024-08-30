@@ -16,5 +16,9 @@ public class App {
 
     Gato gato1 = new Gato("manchas", 8);
     System.out.println("Gato: " + gato1.hacerSonido());
+
+    System.out.println("El total de animales es: " + Animal.getContadorAnimales());
+
+    System.out.println("trabajo en : " + Veterinaria.nombre);
   }
 }
