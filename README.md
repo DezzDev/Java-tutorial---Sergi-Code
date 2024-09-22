@@ -3,7 +3,7 @@
 ## Video tutorial
 
 - <https://www.youtube.com/watch?v=BdNqW63ZaB0>
-- 3:26:00
+- 5:00:00
 
 ## Variables
 
