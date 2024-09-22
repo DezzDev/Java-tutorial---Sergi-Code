@@ -61,3 +61,30 @@ Es un espacio en memoria que tiene un nombre asociado y puede contener un valor 
 String cadena = "soy un texto" // va con S mayuscula y comillas dobles
 
 ```
+
+## colecciones 
+
+Es un objeto que agrupa diferentes elementos en una sola unidad. Son más convenientes para trabajar que los arrays
+
+### tipos de colecciones
+
+- Set
+	Implementaciones:
+		- HashSet
+		- TreeSet
+		- LinkedHashSet
+		- etc
+
+- List
+	Implementaciones:
+	- ArrayList
+	- LinkedList
+	- Vector
+	- etc
+
+- Map
+	Implementaciones:
+		- HashMap
+		- TreeMap
+		- LinkedHashMap
+		- etc
