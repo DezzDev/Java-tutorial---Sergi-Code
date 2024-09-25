@@ -1,0 +1,7 @@
+
+$horaActual = Get-Date
+
+if ($horaActual.Hour -ge 0 -and $horaActual.Hour -lt 7) {
+   
+    Stop-Computer -Force
+}
